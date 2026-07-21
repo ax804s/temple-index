@@ -74,24 +74,6 @@ The long-term objective is to maintain a single source of truth so that all page
 
 ---
 
-## Development
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ax804s/temple-index.git
-```
-
-Install any required development tools and start your preferred local development server.
-
-Compile SCSS during development:
-
-```bash
-sass --watch scss:css
-```
-
----
-
 ## Roadmap
 
 ### Phase 1
@@ -123,12 +105,6 @@ sass --watch scss:css
 * Static page generation
 * Deployment workflow
 * Ongoing data maintenance
-
----
-
-## Contributing
-
-Contributions, corrections, and suggestions are welcome. Please open an issue or submit a pull request if you find inaccurate information or would like to improve the project.
 
 ---
 
