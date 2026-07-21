@@ -1,9 +1,27 @@
 # macOS
 .DS_Store
 
-# VS Code
+# Visual Studio Code
 .vscode/
 
 # Temporary files
 *.tmp
 *.swp
+
+# Node.js
+node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# Build caches
+.cache/
+
+# OS files
+Thumbs.db
