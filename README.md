@@ -132,9 +132,11 @@ Contributions, corrections, and suggestions are welcome. Please open an issue or
 
 ---
 
-## License
+## Copyright
 
-This project is licensed under the MIT License unless otherwise noted.
+Copyright © 2026 Pulse&Pixel. All rights reserved.
+
+This repository and its contents may not be copied, modified, redistributed, or used commercially without prior written permission, except as otherwise permitted by applicable law.
 
 ---
 
