@@ -1,0 +1,81 @@
+{
+  "continents": [
+    {
+      "id": "NA",
+      "name": "North America",
+
+      "countries": [
+        {
+          "id": "US",
+          "name": "United States",
+
+          "regions": [
+            {
+              "id": "UT",
+              "name": "Utah",
+
+              "temples": [
+                {
+                  "id": "SLT1",
+                  "name": "Salt Lake Temple",
+                  "slug": "salt-lake-temple",
+
+                  "location": {
+                    "city": "Salt Lake City",
+                    "address": "50 East North Temple Street",
+                    "coordinates": {
+                      "latitude": 40.7702,
+                      "longitude": -111.8910
+                    }
+                  },
+
+                  "status": {
+                    "current": "Operating",
+                    "announced": true,
+                    "groundbreaking": true,
+                    "construction": false,
+                    "dedicated": true
+                  },
+
+                  "dates": {
+                    "announced": "1847-07-28",
+                    "groundbreaking": "1853-02-14",
+                    "constructionStarted": "1853-04-06",
+                    "dedicated": "1893-04-06",
+                    "rededicated": null
+                  },
+
+                  "history": {
+                    "architect": "Truman O. Angell",
+                    "architecturalStyle": "Gothic Revival",
+                    "notes": "The temple is one of the most recognizable temples of the Church."
+                  },
+
+                  "details": {
+                    "acreage": null,
+                    "squareFootage": null,
+                    "floors": null,
+                    "ordinanceRooms": null,
+                    "sealingRooms": null
+                  },
+
+                  "media": {
+                    "heroImage": "/images/temples/SLT1/hero.jpg",
+                    "gallery": [
+                      "/images/temples/SLT1/front.jpg"
+                    ]
+                  },
+
+                  "metadata": {
+                    "lastUpdated": "2026-07-21",
+                    "sources": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
