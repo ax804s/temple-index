@@ -48,15 +48,11 @@
                   "history": {
                     "architect": "Truman O. Angell",
                     "architecturalStyle": "Gothic Revival",
-                    "notes": "The temple is one of the most recognizable temples of the Church."
                   },
 
                   "details": {
-                    "acreage": null,
                     "squareFootage": null,
-                    "floors": null,
-                    "ordinanceRooms": null,
-                    "sealingRooms": null
+                    "templeOrderNumber": 6
                   },
 
                   "media": {
