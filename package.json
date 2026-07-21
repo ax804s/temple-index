@@ -4,7 +4,8 @@
   "description": "Temple Index is a static website dedicated to documenting every temple of The Church of Jesus Christ of Latter-day Saints. The goal is to provide a fast, searchable, and visually engaging resource that allows visitors to explore temples by location, status, dedication, and other meaningful information.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node scripts/generate-index.js",
+    "watch": "nodemon --watch data/temples.json --exec \"npm run generate\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ax804s/temple-index/issues"
   },
-  "homepage": "https://github.com/ax804s/temple-index#readme"
+  "homepage": "https://github.com/ax804s/temple-index#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
